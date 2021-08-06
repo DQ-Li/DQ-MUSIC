@@ -48,45 +48,51 @@
 
 - 首页：
 
- ![indexFig1.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/indexFig1.png?raw=true) 
+    <img src= https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/indexFig1.png style="zoom:50%;" />
+
+  
 
 - 首页排行榜：
 
- ![indexFig2.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/indexFig2.png?raw=true) 
+    <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/indexFig2.png      style="zoom:50%;" />
+   
+     
 
 ### 4.2 每日推荐
 
- ![recommendSong.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/recommendSong.png?raw=true) 
+ <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/recommendSong.png      style="zoom:50%;" />
 
 ### 4.3 歌曲详情页
 
- ![songDetail.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/songDetail.png?raw=true) 
+ <img src=    https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/songDetail.png     style="zoom:50%;" />
 
 ### 4.4 歌曲搜索页
 
 - 根据歌名搜索歌曲：
 
- ![searchFig1.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/searchFig1.png?raw=true) 
+ <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig1.png      style="zoom:50%;" />
 
 - 根据歌手搜索歌曲：
 
- ![searchFig2.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/searchFig2.png?raw=true) 
+ <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig2.png      style="zoom:50%;" />
 
 - 搜索历史以及热搜榜展示：
 
- ![searchFig3.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/searchFig3.png?raw=true) 
+ <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig3.png      style="zoom:50%;" />
 
 ### 4.5 视频页
 
- ![video.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/video.png?raw=true) 
+ <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/video.png      style="zoom:60%;" />
 
 ### 4.6 登录页面
 
- ![login.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/login.png?raw=true) 
+ <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/login.png      style="zoom:50%;" />
 
 ### 4.7 个人中心
 
- ![personal.png](https://github.com/DQ-Li/DQ-MUSIC/blob/master/FrontEnd/static/images/readme/personal.png?raw=true) 
+ <img src=     https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/personal.png      style="zoom:50%;" />
+
+​    
 
 
 
