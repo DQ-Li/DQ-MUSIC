@@ -48,7 +48,7 @@
 
 - 首页：
 
-    <img src= https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/indexFig1.png style="zoom:20%;" />
+    <div  align=left ><img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/indexFig1.png" width="375"  alt="首页"/></div>
 
   
 
