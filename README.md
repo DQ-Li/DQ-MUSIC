@@ -54,59 +54,59 @@
 - 首页排行榜：
 
     <div  align=left >
-       <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/indexFig2.png" width="375"  alt="首页"/></div>  
+       <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/indexFig2.png" width="375"  alt="首页排行榜"/></div>  
 
 ### 4.2 每日推荐
 
 - 每日推荐歌单:
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/recommendSong.png" width="375"  alt="首页"/></div> 
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/recommendSong.png" width="375"  alt="每日推荐"/></div> 
 
 ### 4.3 歌曲详情页
 
 - 歌曲播放:
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/songDetail.png" width="375"  alt="首页"/></div> 
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/songDetail.png" width="375"  alt="播放歌曲"/></div> 
 
 ### 4.4 歌曲搜索页
 
 - 根据歌名搜索歌曲：
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig1.png" width="375"  alt="首页"/></div>
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig1.png" width="375"  alt="按歌名搜索"/></div>
 
 - 根据歌手搜索歌曲：
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig2.png" width="375"  alt="首页"/></div>
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig2.png" width="375"  alt="按歌手搜索"/></div>
 
 - 搜索历史以及热搜榜展示：
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig3.png" width="375"  alt="首页"/></div>
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/searchFig3.png" width="375"  alt="历史搜索"/></div>
 
 ### 4.5 视频页
 
 - 视频播放列表:
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/video.png" width="375"  alt="首页"/></div>
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/video.png" width="375"  alt="视频页"/></div>
 
 ### 4.6 登录页面
 
 - 登录中心:
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/login.png" width="375"  alt="首页"/></div>
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/login.png" width="375"  alt="登录中心"/></div>
 
 ### 4.7 个人中心
 
 - 个人信息中心：
 
   <div  align=left >
-      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/personal.png" width="375"  alt="首页"/></div>
+      <img src="https://raw.githubusercontent.com/DQ-Li/DQ-MUSIC/master/FrontEnd/static/images/readme/personal.png" width="375"  alt="个人中心"/></div>
 
 
 
